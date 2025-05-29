@@ -58,5 +58,5 @@ docker build -t kitatech/simple-app:latest .
 
 then push to Docker HUB
 ```
-docker push kitatechsolution/simple-app:latest
+docker push kitatech/simple-app:latest
 ```
