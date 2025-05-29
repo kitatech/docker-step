@@ -56,3 +56,7 @@ docker build -t kitatech/simple-app:latest .
 
 <img src="images.png">
 
+then push to Docker HUB
+```
+docker push kitatechsolution/simple-app:latest
+```
