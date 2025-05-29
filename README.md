@@ -45,5 +45,7 @@ docker logs <container_id>
 ```
 
 ✅ (Optional Challenge): Push ke Docker Hub
-
+```
+docker build -t yourusername/yourimagename:tag .
+```
 
