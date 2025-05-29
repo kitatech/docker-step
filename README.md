@@ -54,3 +54,5 @@ sample:
 docker build -t kitatech/simple-app:latest .
 ```
 
+<img src="images.png">
+
