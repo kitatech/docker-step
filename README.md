@@ -36,4 +36,14 @@ CMD ["python", "app.py"]
 docker build -t simple-app:v1 .
 docker run -d -p 5000:5000 simple-app:v1
 ```
+docker run akan menampilak container_id
+
+
+(opional) see running logs
+```
+docker logs <container_id>
+```
+
+✅ (Optional Challenge): Push ke Docker Hub
+
 
